@@ -1,2 +1,3 @@
-# ci
-for learning ci.
+# 持续集成学习项目
+
+#Travis CI学习
